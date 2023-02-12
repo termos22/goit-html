@@ -12,6 +12,18 @@ body {
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
+.main-description {
+    background: red;
+    margin: 20px 40px 20px 40px;
+    padding: 40px 10px 5px 3px;
+}
+
+.block-2 {
+    background: rgb(26, 190, 34);
+    margin: 10px;
+    padding: 50px;
+}
+
 li {
     color: green;
 }
