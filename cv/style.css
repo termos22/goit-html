@@ -11,23 +11,20 @@ body {
     background: #ffffff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
-
-.main-description {
-    background: red;
-    margin: 20px 40px 20px 40px;
-    padding: 40px 10px 5px 3px;
+aside {
+    width: 370px;
+    background: #1e2939;
 }
-
-.block-2 {
-    background: rgb(26, 190, 34);
-    margin: 10px;
-    padding: 50px;
+.cv-photo {
+    margin-top: 25px;
 }
-
-li {
-    color: green;
+.header-secondary {
+    color: #ffffff;
 }
-
-h2 {
-    color: red;
+.contact-data {
+    color: #ffffff;
+}
+.contact-links {
+    color: #ffffff;
+    opacity: 0.5;
 }
