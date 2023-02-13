@@ -40,6 +40,9 @@ aside {
     color: #fb6d3a;
     font-size: 14px;
     line-height: 24px;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
 }
 .list-secondary-item {
     color: #ffffff;
@@ -52,6 +55,11 @@ aside {
 }
 
 .tech-skils-block {
-    margin-top: 51px;
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft-skils-block {
+    margin-top: 44px;
     margin-left: 40px;
 }
