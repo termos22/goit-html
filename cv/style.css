@@ -23,8 +23,26 @@ aside {
 }
 .contact-data {
     color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+}
+.bold {
+    color: #ffffff;
+    font-weight: 700;
 }
 .contact-links {
     color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
     opacity: 0.5;
+}
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+}
+.list-secondary-item {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
 }
